@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/aitzaz_hakro" target="blank"><img src="https://img.shields.io/twitter/follow/aitzaz_hakro?logo=twitter&style=for-the-badge" alt="aitzaz_hakro" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Web Dev proje**
+- 👯 I’m looking to collaborate on **Web Development projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
