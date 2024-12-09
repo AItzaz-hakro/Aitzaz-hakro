@@ -13,6 +13,10 @@
 - 👯 I’m looking to collaborate on **Web Development projects**
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://www.linkedin.com/in/aitzazhassan/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn">
+</a>
+
 <p align="left">
 <a href="https://twitter.com/aitzazhakro20" target="blank">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aitzaz_hakro" height="30" width="40" />
@@ -37,6 +41,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aitzaz-hakro&" alt="hammadshah18" /></p>
 
-<a href="https://www.linkedin.com/in/aitzazhassan/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn">
-</a>
