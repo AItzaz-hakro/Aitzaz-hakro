@@ -4,7 +4,11 @@
 <img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aitzaz-hakro&label=Profile%20views&color=0e75b6&style=flat" alt="aitzaz-hakro" /> </p>
 
-<p align="left"> <a href="https://twitter.com/aitzaz_hakro" target="blank"><img src="https://img.shields.io/twitter/follow/aitzaz_hakro?logo=twitter&style=for-the-badge" alt="aitzaz_hakro" /></a> </p>
+<p align="left">
+ <a href="https://twitter.com/aitzazhakro20" target="blank">
+   <img src="https://img.shields.io/twitter/follow/aitzaz_hakro?logo=twitter&style=for-the-badge" alt="aitzaz_hakro" /> 
+  </a>
+</p>
 
 - 👯 I’m looking to collaborate on **Web Development projects**
 
