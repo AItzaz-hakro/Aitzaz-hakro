@@ -13,17 +13,13 @@
 - 👯 I’m looking to collaborate on **Web Development projects**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/aitzazhassan/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
-</a>
-
 <p align="left">
 <a href="https://twitter.com/aitzazhakro20" target="blank">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aitzaz_hakro" height="30" width="40" />
 </a>
  <a href="https://medium.com/@aitzazhakro123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aitzazhakro123" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aitzazhasssan2005/" target="blank">
- <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aitzaz hasssan" height="30" width="40" />
+<a href="https://www.linkedin.com/in/aitzazhassan/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40">
 </a>
 <a href="[facebook.com/profile.php?id=61558071621584&mibextid=ZbWKwL](https://www.facebook.com/people/Aitzaz-Hakro/pfbid0WLK6KsibAQEoCDQw4fUnNweVb3nZPJ1ikVspA5o1yKREasyujdTn8PhyP6wH4BMYl/?mibextid=ZbWKwL)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aitzaz hassan" height="30" width="40" /></a>
 <a href="https://instagram.com/aitzaz_hakro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aitzaz_hakro" height="30" width="40" /></a>
