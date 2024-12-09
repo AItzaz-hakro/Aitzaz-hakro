@@ -17,6 +17,7 @@
 <a href="https://twitter.com/aitzazhakro20" target="blank">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aitzaz_hakro" height="30" width="40" />
 </a>
+ <a href="https://medium.com/@aitzazhakro123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aitzazhakro123" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aitzazhasssan2005/" target="blank">
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aitzaz hasssan" height="30" width="40" />
 </a>
