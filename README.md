@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aitzaz Hassan</h1>
+<img src="https://readme-typing-svg.herokuapp.com?color=FFB13C&size=50&width=1000&height=80&lines=Hi👋, I'm Aitzaz Hassan  "/>
+</div>
+
 <h3 align="center">A passionate frontend developer from Hyderabad, Pakistan</h3>
  
 <img>
